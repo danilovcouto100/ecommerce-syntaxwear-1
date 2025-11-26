@@ -44,4 +44,3 @@ cd ecommerce-syntaxwear
 
 # Open index.html in your browser
 ```
-
